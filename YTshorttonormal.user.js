@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        YouTube Shorts To Normal video
 // @namespace   lii
-// @description redirect to anothersite
+// @description Redirects to normal YT
 // @include     https://www.youtube.com/shorts/
 // @version     1
 // @author      BaneSRB
